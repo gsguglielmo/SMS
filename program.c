@@ -3,7 +3,6 @@
 #include <string.h>
 #include "conio.h"
 
-//il pollo bast**** bastaaaaaa
 
 int cas();
 int razlikaCasa(int zacetni,int koncni,int sec);

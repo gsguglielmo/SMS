@@ -3,6 +3,7 @@
 #include <string.h>
 #include "conio.h"
 
+jeah madafakkka
 
 int cas();
 int razlikaCasa(int zacetni,int koncni,int sec);
